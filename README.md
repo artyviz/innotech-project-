@@ -1,7 +1,7 @@
 # innotech-project-
 # Sign Language Robot Assistant 🤖✋
 
-![Sign Language Robot](https://placeholder.com/robot-image.png)
+
 
 A Raspberry Pi-based robot designed to recognize sign language, speak, and serve as a helpful everyday assistant. This robot can detect hand gestures, interpret sign language, and respond in natural speech. It also allows for online searches and conversation, making it an ideal friendly companion.
 
